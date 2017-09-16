@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             >
+    <TextView
+        android:background="@drawable/headtoast_bg"
+        android:minHeight="50dp"
+        android:layout_margin="5dp"
+        android:id="@+id/tv_message"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"/>
+
+</FrameLayout>
